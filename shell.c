@@ -3,7 +3,7 @@ Author Brian Pacouloute
 Term Winter 2025
 */
 
-/* Defining Libraries */
+/* Defining Libraries  */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
